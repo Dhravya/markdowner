@@ -43,9 +43,9 @@ url (string) -> The website URL to convert into markdown.
 
 ##### _OPTIONAL PARAMETERS_
 
-`enableDetailedResponse` (boolean: false) -> Toggle for detailed response with full HTML content.
-`crawlSubpages` (boolean: false) -> Crawl and return markdown for up to 10 subpages.
-`llmFilter` (boolean: false) -> Filter out unnecessary information using LLM.
+`enableDetailedResponse` (boolean: false) -> Toggle for detailed response with full HTML content. \
+`crawlSubpages` (boolean: false) -> Crawl and return markdown for up to 10 subpages. \
+`llmFilter` (boolean: false) -> Filter out unnecessary information using LLM. 
 
 ##### _Response Types_
 
