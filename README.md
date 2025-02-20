@@ -71,7 +71,7 @@ npm i
 
 2. Run this command:
    ```
-   npx wrangler kv:namespace create md_cache
+   npx wrangler kv:namespace create MD_CACHE
    ```
 3. Open Wrangler.toml and change the IDs accordingly
 4. Run `npm run deploy`
